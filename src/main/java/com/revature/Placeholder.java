@@ -1,9 +1,12 @@
 package com.revature;
 
+import Models.*;
+
 public class Placeholder {
 
-    /*
-        This is a placeholder to maintain the gradle file structure in git.
-        You may delete it.
-     */
+
+    public static void main(String[] args){
+
+    }
+
 }
